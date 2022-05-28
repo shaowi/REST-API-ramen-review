@@ -68,7 +68,6 @@ python main.py
 
 👤 **Lee Shao Wee**
 
-- Website: [URL](https://leeshaowee.netlify.app/)
 - Github: [@shaowi](https://github.com/shaowi)
 
 ---
